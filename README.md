@@ -1,2 +1,2 @@
-# Class-30
-Vanishing Pigs
+# p5.play-boilerplate
+Boiler plate for p5.play
